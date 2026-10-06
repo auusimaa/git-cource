@@ -1,2 +1,1 @@
-# git-cource
-Uni cource
+# This is README
